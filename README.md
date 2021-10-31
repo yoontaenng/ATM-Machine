@@ -4,7 +4,6 @@ This is for BR custom task
 
 # The flow 
 -----------------
-
 ## Insert a card 
 1. Simple standard input and output
 
@@ -21,9 +20,9 @@ This is for BR custom task
 ## Choose the operation
 1. There are 5 options. Show my balance, deposit, withdraw, reselect the account, create new account, or exit.
 
-#functions
-----------------
 
+# functions
+-------------
 ## create_account
 1. The name of each account is set as "user account 1, 2, 3,,,,"
 2. As I mentioned, new object is created as a new element of account vector.
