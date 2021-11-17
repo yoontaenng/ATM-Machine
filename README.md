@@ -1,5 +1,5 @@
 # ATM Machine
-This is for BR custom task
+
 ### Compile with g++ -std=c++0x atm.cpp 
 
 # The flow 
